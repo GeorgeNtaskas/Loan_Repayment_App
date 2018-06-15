@@ -1,0 +1,15 @@
+C:\Users\George\source\repos\LoanRepaymentApp\LoanRepaymentApp\bin\Release\LoanRepaymentApp.exe.config
+C:\Users\George\source\repos\LoanRepaymentApp\LoanRepaymentApp\bin\Release\LoanRepaymentApp.exe
+C:\Users\George\source\repos\LoanRepaymentApp\LoanRepaymentApp\bin\Release\LoanRepaymentApp.pdb
+C:\Users\George\source\repos\LoanRepaymentApp\LoanRepaymentApp\bin\Release\itextsharp.dll
+C:\Users\George\source\repos\LoanRepaymentApp\LoanRepaymentApp\bin\Release\itextsharp.xml
+C:\Users\George\source\repos\LoanRepaymentApp\LoanRepaymentApp\obj\Release\LoanRepaymentApp.csprojResolveAssemblyReference.cache
+C:\Users\George\source\repos\LoanRepaymentApp\LoanRepaymentApp\obj\Release\LoanRepaymentApp.MainForm.resources
+C:\Users\George\source\repos\LoanRepaymentApp\LoanRepaymentApp\obj\Release\LoanRepaymentApp.LoanDetails.resources
+C:\Users\George\source\repos\LoanRepaymentApp\LoanRepaymentApp\obj\Release\LoanRepaymentApp.Properties.Resources.resources
+C:\Users\George\source\repos\LoanRepaymentApp\LoanRepaymentApp\obj\Release\LoanRepaymentApp.csproj.GenerateResource.cache
+C:\Users\George\source\repos\LoanRepaymentApp\LoanRepaymentApp\obj\Release\LoanRepaymentApp.csproj.CoreCompileInputs.cache
+C:\Users\George\source\repos\LoanRepaymentApp\LoanRepaymentApp\obj\Release\LoanRepaymentApp.csproj.CopyComplete
+C:\Users\George\source\repos\LoanRepaymentApp\LoanRepaymentApp\obj\Release\LoanRepaymentApp.exe
+C:\Users\George\source\repos\LoanRepaymentApp\LoanRepaymentApp\obj\Release\LoanRepaymentApp.pdb
+C:\Users\George\source\repos\LoanRepaymentApp\LoanRepaymentApp\obj\Release\LoanRepaymentApp.LocalResources.resources

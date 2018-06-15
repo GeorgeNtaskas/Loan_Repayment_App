@@ -1,0 +1,30 @@
+C:\Users\George\source\repos\LoanRepaymentApp\LoanRepaymentApp\bin\Debug\LoanRepaymentApp.exe.config
+C:\Users\George\source\repos\LoanRepaymentApp\LoanRepaymentApp\bin\Debug\LoanRepaymentApp.exe
+C:\Users\George\source\repos\LoanRepaymentApp\LoanRepaymentApp\bin\Debug\LoanRepaymentApp.pdb
+C:\Users\George\source\repos\LoanRepaymentApp\LoanRepaymentApp\obj\Debug\LoanRepaymentApp.Properties.Resources.resources
+C:\Users\George\source\repos\LoanRepaymentApp\LoanRepaymentApp\obj\Debug\LoanRepaymentApp.csproj.GenerateResource.cache
+C:\Users\George\source\repos\LoanRepaymentApp\LoanRepaymentApp\obj\Debug\LoanRepaymentApp.csproj.CoreCompileInputs.cache
+C:\Users\George\source\repos\LoanRepaymentApp\LoanRepaymentApp\obj\Debug\LoanRepaymentApp.exe
+C:\Users\George\source\repos\LoanRepaymentApp\LoanRepaymentApp\obj\Debug\LoanRepaymentApp.pdb
+C:\Users\George\source\repos\LoanRepaymentApp\LoanRepaymentApp\obj\Debug\LoanRepaymentApp.csprojResolveAssemblyReference.cache
+C:\Users\George\source\repos\LoanRepaymentApp\LoanRepaymentApp\bin\Debug\itextsharp.dll
+C:\Users\George\source\repos\LoanRepaymentApp\LoanRepaymentApp\bin\Debug\itextsharp.xml
+C:\Users\George\source\repos\LoanRepaymentApp\LoanRepaymentApp\obj\Debug\LoanRepaymentApp.csproj.CopyComplete
+C:\Users\George\source\repos\LoanRepaymentApp\LoanRepaymentApp\obj\Debug\LoanRepaymentApp.LoanDetails.resources
+C:\Users\George\source\repos\LoanRepaymentApp\LoanRepaymentApp\obj\Debug\LoanRepaymentApp.MainForm.resources
+C:\Users\George\source\repos\LoanRepaymentApp\LoanRepaymentApp\obj\Debug\LoanRepaymentApp.LocalResources.resources
+C:\Users\George\Documents\POSTGRADUATE\SEMESTER2\Financial Services Information Systems\Assignment 2\Assignment 2\LoanRepaymentApp\LoanRepaymentApp\bin\Debug\LoanRepaymentApp.exe.config
+C:\Users\George\Documents\POSTGRADUATE\SEMESTER2\Financial Services Information Systems\Assignment 2\Assignment 2\LoanRepaymentApp\LoanRepaymentApp\bin\Debug\LoanRepaymentApp.exe
+C:\Users\George\Documents\POSTGRADUATE\SEMESTER2\Financial Services Information Systems\Assignment 2\Assignment 2\LoanRepaymentApp\LoanRepaymentApp\bin\Debug\LoanRepaymentApp.pdb
+C:\Users\George\Documents\POSTGRADUATE\SEMESTER2\Financial Services Information Systems\Assignment 2\Assignment 2\LoanRepaymentApp\LoanRepaymentApp\bin\Debug\itextsharp.dll
+C:\Users\George\Documents\POSTGRADUATE\SEMESTER2\Financial Services Information Systems\Assignment 2\Assignment 2\LoanRepaymentApp\LoanRepaymentApp\bin\Debug\itextsharp.xml
+C:\Users\George\Documents\POSTGRADUATE\SEMESTER2\Financial Services Information Systems\Assignment 2\Assignment 2\LoanRepaymentApp\LoanRepaymentApp\obj\Debug\LoanRepaymentApp.csprojResolveAssemblyReference.cache
+C:\Users\George\Documents\POSTGRADUATE\SEMESTER2\Financial Services Information Systems\Assignment 2\Assignment 2\LoanRepaymentApp\LoanRepaymentApp\obj\Debug\LoanRepaymentApp.MainForm.resources
+C:\Users\George\Documents\POSTGRADUATE\SEMESTER2\Financial Services Information Systems\Assignment 2\Assignment 2\LoanRepaymentApp\LoanRepaymentApp\obj\Debug\LoanRepaymentApp.LoanDetails.resources
+C:\Users\George\Documents\POSTGRADUATE\SEMESTER2\Financial Services Information Systems\Assignment 2\Assignment 2\LoanRepaymentApp\LoanRepaymentApp\obj\Debug\LoanRepaymentApp.Properties.Resources.resources
+C:\Users\George\Documents\POSTGRADUATE\SEMESTER2\Financial Services Information Systems\Assignment 2\Assignment 2\LoanRepaymentApp\LoanRepaymentApp\obj\Debug\LoanRepaymentApp.LocalResources.resources
+C:\Users\George\Documents\POSTGRADUATE\SEMESTER2\Financial Services Information Systems\Assignment 2\Assignment 2\LoanRepaymentApp\LoanRepaymentApp\obj\Debug\LoanRepaymentApp.csproj.GenerateResource.cache
+C:\Users\George\Documents\POSTGRADUATE\SEMESTER2\Financial Services Information Systems\Assignment 2\Assignment 2\LoanRepaymentApp\LoanRepaymentApp\obj\Debug\LoanRepaymentApp.csproj.CoreCompileInputs.cache
+C:\Users\George\Documents\POSTGRADUATE\SEMESTER2\Financial Services Information Systems\Assignment 2\Assignment 2\LoanRepaymentApp\LoanRepaymentApp\obj\Debug\LoanRepaymentApp.csproj.CopyComplete
+C:\Users\George\Documents\POSTGRADUATE\SEMESTER2\Financial Services Information Systems\Assignment 2\Assignment 2\LoanRepaymentApp\LoanRepaymentApp\obj\Debug\LoanRepaymentApp.exe
+C:\Users\George\Documents\POSTGRADUATE\SEMESTER2\Financial Services Information Systems\Assignment 2\Assignment 2\LoanRepaymentApp\LoanRepaymentApp\obj\Debug\LoanRepaymentApp.pdb
